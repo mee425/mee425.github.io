@@ -1,5 +1,5 @@
 #Alternate default index page
-DirectoryIndex main-page.html
+DirectoryIndex principal-page.html
 
 #Alternate default index pages
-DirectoryIndex main-page.html index.htm index.html index.php
+DirectoryIndex principal-page.html index.htm index.html index.php
